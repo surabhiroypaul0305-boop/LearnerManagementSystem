@@ -127,7 +127,7 @@ Use names that describe the operation:
 - `updateStudentBatch()`
 - `enrollStudent()`
 
-Avoid unclear names such as `fun1()` or `doWork()`.
+Avoid unclear names such as `fun1()` or `doWork()` .
 
 ### Short, focused methods
 
