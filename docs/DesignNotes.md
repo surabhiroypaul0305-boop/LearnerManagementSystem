@@ -131,7 +131,9 @@ Avoid unclear names such as `fun1()` or `doWork()`.
 
 ### Short, focused methods
 
-Each method should have one clear responsibility. For example, input reading, student lookup, and student creation should be separated when doing so improves clarity.
+Each method should have one clear responsibility. 
+For example, input reading, student lookup,
+and student creation should be separated when doing so improves clarity.
 
 ### Meaningful variables
 
